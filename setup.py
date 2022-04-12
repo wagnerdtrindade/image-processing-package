@@ -9,9 +9,9 @@ with open("requirements.txt") as f:
 setup(
     name="image_processing",
     version="0.0.1",
-    author="wagner_trindade",
+    author="wagner trindade",
     author_email="wagner.d.trindade@gmail.com",
-    description="My short description",
+    description="image processing python project example",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/wagnerdtrindade/image-processing-package",
