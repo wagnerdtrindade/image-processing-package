@@ -1,7 +1,7 @@
-# image_processing
+# wagner_trindade_image_processing
 
 Description. 
-The package image_processing is used to:
+The package wagner_trindade_image_processing is used to:
 	Processing:
 	- Histogram matching
 	- Structural smilarity
@@ -18,7 +18,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image_processing
+pip install wagner_trindade_image_processing
 ```
 
 ## Author
