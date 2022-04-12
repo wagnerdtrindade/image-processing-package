@@ -1,9 +1,17 @@
-# package_name
+# image_processing
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package image_processing is used to:
+	Processing:
+	- Histogram matching
+	- Structural smilarity
+	- Resize image
+	Utils:
+	- Read image
+	- Save image
+	- Plot image
+	- Plot result
+	- Plot histogram
 
 ## Installation
 
@@ -18,11 +26,11 @@ pip install image_processing
 ```python
 from image_processing.processing import combination
 
-file1_name.my_function()
+# file1_name.my_function()
 ```
 
 ## Author
-My_name
+Wagner_Trindade
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

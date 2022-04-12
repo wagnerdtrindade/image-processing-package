@@ -9,13 +9,13 @@ with open("requirements.txt") as f:
 setup(
     name="image_processing",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
+    author="wagner_trindade",
+    author_email="wagner.d.trindade@gmail.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/wagnerdtrindade/image-processing-package",
     packages=find_packages(),
     install_requires=requirements,
-    python_requires='>=3.8',
+    python_requires='>=3.8'
 )
