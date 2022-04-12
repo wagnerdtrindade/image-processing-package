@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="wagner_trindade_image_processing",
+    name="wagner_dio_image_processing",
     version="0.0.1",
     author="wagner trindade",
     author_email="wagner.d.trindade@gmail.com",
